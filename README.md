@@ -14,19 +14,30 @@ Everything is designed to be as easy as possible to use, without limiting advanc
 
 •Staggered Crank
 
-•"Perfect" Staggered Crank
-
-While in theory, the same as the Staggered Crank profile. Only the desired wing amplitude can be used as a input
-leaving the calculator to find the best dihedral and anhedral, resulting in the lowest possible offset between the wings.
-[Thanks to Nathan Chronister for the idea]
+•"Perfect" Staggered Crank*
 
 •Duel Crank
 
 More to come...
 
+*While in theory, the same as the Staggered Crank profile. Only the desired wing amplitude can be used as a input
+leaving the calculator to find the best dihedral and anhedral, resulting in the lowest possible offset between the wings.
+[Thanks to Nathan Chronister for the idea]
+
 # Design Workflow
+
+The are three segments in the calculator:
+
+•The first is inputs
+
+•The second is place holders, (unless you are planning on developing or debugging, there is no need the worry about this part...)
+
+•And lastly is outputs.
 
 # Advanced Workflow
 
+To be added soon...
+
 # To Do
 
+Upload the spreadsheet.
