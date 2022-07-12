@@ -7,6 +7,14 @@ To get started, simply download the newest version and open the excel spreadshee
 
 Everything is designed to be as easy as possible to use, without limiting any advanced use. 
 
+# Supported Configurations
+
+•Staggered Crank
+
+•"Perfect" Staggered Crank
+
+•Duel Crank
+
 # Design Workflow
 
 # Advanced Workflow
