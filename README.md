@@ -1,7 +1,5 @@
 # Ornithopter-Crank-Designer
 
-{Currently a work it progress}
-
   Welcome to Ornithopter Crank Designer!
 Designed to be like Inverse kinematics for your Ornithopter, you no longer have to input different 
 Variable like Crank radii or linkage length countless times to find the best results. Rather input the performance related information and let the calculator 
@@ -37,7 +35,3 @@ The are three segments in the calculator:
 # Advanced Workflow
 
 To be added soon...
-
-# To Do
-
-Upload the spreadsheet.
