@@ -22,16 +22,6 @@ More to come...
 leaving the calculator to find the best dihedral and anhedral, resulting in the lowest possible offset between the wings.
 [Thanks to Nathan Chronister for the idea]
 
-# Design Workflow
-
-The are three segments in the calculator:
-
-•The first is inputs
-
-•The second is place holders, (unless you are planning on developing or debugging, there is no need the worry about this part...)
-
-•And lastly is outputs.
-
 # Advanced Workflow
 
 To be added soon...
