@@ -21,3 +21,9 @@ More to come...
 *While in theory, the same as the Staggered Crank profile. Only the desired wing amplitude can be used as a input
 leaving the calculator to find the best dihedral and anhedral, resulting in the lowest possible offset between the wings.
 [Thanks to Nathan Chronister for the idea]
+
+# Tips for Using Ornithopter Crank designer
+
+On all profiles, the "D" input term can be set to zero, if needed.
+
+To analyse the "perfect crank" profile data with greater depth, copy the inputs, as well as the resulting Anhedral and dihedral. And paste the data in the staggered crank profile inputs.
