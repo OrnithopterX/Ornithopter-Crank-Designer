@@ -21,7 +21,3 @@ More to come...
 *While in theory, the same as the Staggered Crank profile. Only the desired wing amplitude can be used as a input
 leaving the calculator to find the best dihedral and anhedral, resulting in the lowest possible offset between the wings.
 [Thanks to Nathan Chronister for the idea]
-
-# Advanced Workflow
-
-To be added soon...
