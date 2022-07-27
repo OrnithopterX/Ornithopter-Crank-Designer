@@ -16,7 +16,7 @@ Everything is designed to be as easy as possible to use, without limiting advanc
 
 •Duel Crank
 
-More to come...
+I can add support for different configurations, just let me know what you want.
 
 *While in theory, the same as the Staggered Crank profile. Only the desired wing amplitude can be used as a input
 leaving the calculator to find the best dihedral and anhedral, resulting in the lowest possible offset between the wings.
@@ -26,6 +26,6 @@ leaving the calculator to find the best dihedral and anhedral, resulting in the 
 
 On all profiles, the "D" input term can be set to zero, if needed.
 
-To analyse the "perfect crank" profile data with greater depth, copy the inputs, as well as the resulting Anhedral and Dihedral. And paste the data in the staggered crank profile inputs.
+To analyse the "perfect crank" profile data in greater depth, copy the inputs, as well as the resulting Anhedral and Dihedral. And paste the data in the staggered crank profile as inputs.
 
 On Duel Cranks: each crank should rotate in opposite directions, to maximize flapping symmetry.
