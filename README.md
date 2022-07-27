@@ -28,4 +28,4 @@ On all profiles, the "D" input term can be set to zero, if needed.
 
 To analyse the "perfect crank" profile data with greater depth, copy the inputs, as well as the resulting Anhedral and Dihedral. And paste the data in the staggered crank profile inputs.
 
-For symmetrical flapping on Duel Cranks; each cranks should rotate in opposite directions.
+On Duel Cranks: each crank should rotate in opposite directions, to maximize flapping symmetry.
