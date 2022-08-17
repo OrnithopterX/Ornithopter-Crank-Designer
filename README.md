@@ -6,6 +6,10 @@ Variable like Crank radii or linkage length countless times to find the best res
 find the best solution!
 To get started, simply download the newest version and open the excel spreadsheet.
 
+Note: There are a few errors with the perfect Staggered crank profile, I am working on a fix.
+
+There is a more advanced version in the works: 
+
 Everything is designed to be as easy as possible to use, without limiting advanced users.
 
 # Supported Configurations
