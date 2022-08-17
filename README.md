@@ -8,7 +8,7 @@ To get started, simply download the newest version and open the excel spreadshee
 
 Note: There are a few errors with the perfect Staggered crank profile, I am working on a fix.
 
-There is a more advanced version in the works: 
+There is a more advanced version in the works: https://github.com/OrnithopterX/Ornithopter-Crank-Designer-Pro
 
 Everything is designed to be as easy as possible to use, without limiting advanced users.
 
