@@ -18,6 +18,8 @@ Everything is designed to be as easy as possible to use, without limiting advanc
 
 •"Perfect" Staggered Crank*
 
+•Inside-out Staggered Crank
+
 •Duel Crank
 
 I can add support for different configurations, just let me know what you want.
@@ -33,3 +35,13 @@ On all profiles, the "D" input term can be set to zero, if needed.
 To analyse the "perfect crank" profile data in greater depth, copy the inputs, as well as the resulting Anhedral and Dihedral. And paste the data in the staggered crank profile as inputs.
 
 On Duel Cranks: each crank should rotate in opposite directions, to maximize flapping symmetry.
+
+# Verisons
+
+V1.00 
++ initial file.
+
+V1.10 
++ Rectified an issue with the perfect Staggered crank profile outputting the wrong linkage length.
++ Added the Inside-out Staggered crank profile. 
++ other small fixes.
