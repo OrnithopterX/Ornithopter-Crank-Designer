@@ -36,14 +36,14 @@ On Duel Cranks: each crank should rotate in opposite directions, to maximize fla
 
 # Verisons
 
-V1.00 
-+ initial file.
+V1.20 Beta
+(to be updated to stable release shortly...)
++ Added support for the "perfect" insided-out staggered crank!
 
 V1.10 
 + Rectified an issue with the perfect Staggered crank profile outputting the wrong linkage length.
 + Added the Inside-out Staggered crank profile. 
-+ other small fixes.
++ other small bugfixes.
 
-V1.20 Beta
-(to be updated to stable release shortly...)
-+ Added support for the "perfect" insided-out staggered crank!
+V1.00 
++ initial file.
