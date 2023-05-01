@@ -43,3 +43,7 @@ V1.10
 + Rectified an issue with the perfect Staggered crank profile outputting the wrong linkage length.
 + Added the Inside-out Staggered crank profile. 
 + other small fixes.
+
+V1.20 Beta
+(to be updated to stable release shortly...)
++ Added support for the "perfect" insided-out staggered crank!
